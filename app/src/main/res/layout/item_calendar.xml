@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <!-- 날짜 텍스트 -->
+        <TextView
+            android:id="@+id/day_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+    <!-- 밑줄 표시 -->
+    <View
+        android:id="@+id/underline_view"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/dotted_line"
+        android:visibility="gone" />
+
+    <!-- 이모지 이미지 -->
+    <ImageView
+        android:id="@+id/emoji_image"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="33dp"
+        android:visibility="gone" />
+
+    <!-- 점 표시 -->
+    <View
+        android:id="@+id/dot_view"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/dot"
+        android:visibility="gone" />
+
+</FrameLayout>

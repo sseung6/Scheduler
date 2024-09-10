@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSelected">#DCDCDC</color> <!-- 선택되었을 때의 색상 -->
+    <color name="colorDefault">#00000000</color> <!-- 기본 색상 -->
+
+
+    <color name="BLACK">#000000</color>
+    <color name="WHITE">#FFFFFF</color>
+
+    <array name="colors">
+        <item>#ff0000</item>
+        <item>#ffbe0a</item>
+        <item>#288c28</item>
+        <item>#0064ff</item>
+        <item>#9905d3</item>
+        <item>#fc5404</item>
+        <item>#faed27</item>
+        <item>#2fff00</item>
+        <item>#55ffff</item>
+        <item>#ff00ff</item>
+    </array>
+
+</resources>
