@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_iconshape.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\iconshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_dialog_help.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.diary.app-debug-48:/layout_dialog_event.xml.flat",
+        "source": "com.example.diary.app-main-50:/layout/dialog_event.xml"
+    },
+    {
+        "merged": "com.example.diary.app-debug-48:/layout_fragment_schedule.xml.flat",
+        "source": "com.example.diary.app-main-50:/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_memo.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_fragment_schedule.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\fragment_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_contrast_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_contrast_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_alarm_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_help_outline_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_help_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_dialog_periodset.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\dialog_periodset.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_ic_light_mode.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\ic_light_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_fragment_date.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_create_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_create_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_dialog_period.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\dialog_period.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_dot.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\color_radio_button_color.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\color\\radio_button_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_dark_mode_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_dark_mode_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_ic_dark_mode.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\ic_dark_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_dialog_event.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\dialog_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_cake_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_cake_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_item_calendar.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\item_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_dotted_line.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\dotted_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_new_dialog_layout.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\new_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_sec_dialog_layout.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\sec_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_calendar_day_item.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\calendar_day_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\layout_item_title.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\layout\\item_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-debug-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\O\\.gradle\\daemon\\8.4\\com.example.diary.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#80FFFFFF" /> <!-- 투명한 흰색, 필요에 따라 색상 변경 -->
+</shape>
