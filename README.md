@@ -2,9 +2,7 @@
 Calendar app to manage your schedule
 
 ### Collaborator
-@mllnxeo
+[@mllnxeo](https://github.com/mllnxeo) 
 
 ### Languages and Tools:
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
